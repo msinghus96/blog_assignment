@@ -10,7 +10,7 @@
     "express": "*",
     "body-parser": "*",
     "mongoose": "*",
-    "ejs": "2.5.6"
+    "ejs": "*"
   },
   "author": "Manbir Singh Mangat ",
   "license": "ISC"
