@@ -18,5 +18,10 @@ app.get('/',function(req,res)
     res.send("done");
 });
 
-app.listen(5000);
-console.log("runing on 2185");
+app.get('/home',function(req,res)
+{
+    res.send("this is our home page");
+});
+
+app.listen(80);
+console.log("runing on 80");
