@@ -2,14 +2,15 @@
   "name": "blog_mini_assignment",
   "version": "1.0.0",
   "description": "alpha version",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "express": "*",
     "body-parser": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "ejs": "2.5.6"
   },
   "author": "Manbir Singh Mangat ",
   "license": "ISC"
